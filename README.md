@@ -1,15 +1,14 @@
 # Olá, eu sou o Jhon! 👋
 
-### 👨‍💻 Desenvolvedor [Insira sua especialidade aqui, ex: Full Stack / Mobile / Estudante]
+### 👨‍💻 Desenvolvedor Web
 
-Sou apaixonado por tecnologia e atualmente focado em aprimorar minhas habilidades em [Tecnologia X] e [Tecnologia Y]. Acredito que o código pode transformar ideias em realidade.
+Sou apaixonado por tecnologia e atualmente focado em aprimorar minhas habilidades em [Typescript] e [Nest]. Acredito que o código pode transformar ideias em realidade.
 
 ---
 
 ### 🛠️ Minhas Tecnologias
 
-![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode) 
-*(Dica: mude os nomes acima para as tecnologias que você usa)*
+![Minhas Habilidades](https://skillicons.dev/icons?i=js,typescript,html,css,react,nodejs,git,github,vscode,mysql,) 
 
 ---
 
@@ -24,9 +23,9 @@ Sou apaixonado por tecnologia e atualmente focado em aprimorar minhas habilidade
 
 ### 📫 Como me encontrar
 
-- 💼 LinkedIn: [Seu Nome](https://linkedin.com/in/seu-usuario)
-- 📧 E-mail: seu-email@exemplo.com
-- 🌐 Portfolio: [link-do-seu-site.com]
+- 💼 LinkedIn: [Jhon Everton](https://linkedin.com/in/jhonthedev)
+- 📧 E-mail: jhoneverton989@gmail.com
+- 🌐 Portfolio: [Meu Portifólio](https://portfolio-kappa-lac-wgmn55k9xi.vercel.app)
 
 ---
 
