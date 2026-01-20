@@ -1,8 +1,18 @@
+![Banner do Jhon](https://raw.githubusercontent.com/JhonTheDev/JhonTheDev/main/banner.png)
 # Hi, I'm Jhon! 👋
 
 ### 👨‍💻 Web Developer
 
 I'm passionate about technology and currently focused on improving my skills in MySQL and Nest. I believe that code transforms ideas into reality.
+
+---
+
+### 🐍 My Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonTheDev/JhonTheDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonTheDev/JhonTheDev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JhonTheDev/JhonTheDev/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
