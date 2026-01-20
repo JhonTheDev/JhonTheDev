@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Web
 
-Sou apaixonado por tecnologia e atualmente focado em aprimorar minhas habilidades em [Typescript] e [Nest]. Acredito que o código pode transformar ideias em realidade.
+Sou apaixonado por tecnologia e atualmente focado em aprimorar minhas habilidades em Typescript e Nest. Acredito que o código transforma ideias em realidade.
 
 ---
 
@@ -26,21 +26,6 @@ Sou apaixonado por tecnologia e atualmente focado em aprimorar minhas habilidade
 - 💼 LinkedIn: [Jhon Everton](https://linkedin.com/in/jhonthedev)
 - 📧 E-mail: jhoneverton989@gmail.com
 - 🌐 Portfolio: [Meu Portifólio](https://portfolio-kappa-lac-wgmn55k9xi.vercel.app)
-
----
-
-**JhonTheDev/JhonTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ---
 
