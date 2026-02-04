@@ -20,16 +20,6 @@ I'm passionate about technology and currently focused on improving my skills in 
 
 ---
 
-### 📊 My Statistics
-
-<p align="left">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonTheDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonTheDev&layout=compact&langs_count=7&theme=dracula"/>
-
-</p>
-
----
 
 ### 📫 How to find me
 
@@ -39,7 +29,7 @@ I'm passionate about technology and currently focused on improving my skills in 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 
-  <a href="mailto:jhoneverton989@gmail.com">
+  <a href="mailto:jhoneverton.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 
