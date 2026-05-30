@@ -29,14 +29,14 @@ My name is Jhon Everton, I'm 18 years old and I'm a developer passionate about t
 ---
 
 ## Links/Social
-<table>
-<tr>
-</tr>
+<table border="0" cellpadding="0" cellspacing="15" width="100%">
+  <tr align="middle">
+    <td width="25%"><a href="https://discord.com/@zezin.milgrau" target="blank"><img align="center" src="icons/Discord.svg" alt="jhonthedev" height="30" width="40" /></a></td>
+    <td><a href="https://github.com/jhonthedev" target="blank"><img align="center" src="icons/Github-Dark.svg" alt="jhonthedev" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/jhonthedev" target="blank"><img align="center" src="icons/LinkedIn.svg" alt="jhonthedev" height="30" width="40" /></a></td>
+    <td><a href="https://www.instagram.com/jhonthe.dev/" target="blank"><img align="center" src="icons/instagram.svg" alt="jhonthedev" height="30" width="40" /></a></td>
+  </tr>
 </table>
-<a href="https://discord.com/@zezin.milgrau" target="blank"><img align="center" src="icons/Discord.svg" alt="jhonthedev" height="30" width="40" /></a>
-<a href="https://github.com/jhonthedev" target="blank"><img align="center" src="icons/Github-Dark.svg" alt="jhonthedev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jhonthe.dev/" target="blank"><img align="center" src="icons/instagram.svg" alt="jhonthedev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jhonthedev" target="blank"><img align="center" src="icons/LinkedIn.svg" alt="jhonthedev" height="30" width="40" /></a>
 
 ---
 
