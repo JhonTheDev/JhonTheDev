@@ -94,7 +94,6 @@ My name is Jhon Everton, I'm 18 years old and I'm a developer passionate about t
 
 ---
 
----
 
 ## Stats
 <p align="center">
