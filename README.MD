@@ -37,6 +37,7 @@ My name is Jhon Everton, I'm 18 years old and I'm a developer passionate about t
 <a href="https://github.com/jhonthedev" target="blank"><img align="center" src="icons/Github-Dark.svg" alt="jhonthedev" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jhonthe.dev/" target="blank"><img align="center" src="icons/instagram.svg" alt="jhonthedev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jhonthedev" target="blank"><img align="center" src="icons/LinkedIn.svg" alt="jhonthedev" height="30" width="40" /></a>
+
 ---
 
 ## Stack
