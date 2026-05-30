@@ -7,7 +7,7 @@ My name is Jhon Everton, I'm 18 years old and I'm a developer passionate about t
 
 ## About Me
 
-<table border="0" opacity="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" transparency="100" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="75%" valign="top" style="border: none; padding-right: 20px;">
       <p>
