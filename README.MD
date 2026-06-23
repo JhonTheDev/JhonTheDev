@@ -13,7 +13,7 @@ My name is Jhon Everton, I'm 18 years old and I'm a developer passionate about t
       <p>
         I'm currently finishing my first semester of my Bachelor's degree in Computer Science. 
         I'm focusing a lot on Cybersecurity, an area I've become very interested in. 
-        One project I'm currently working on is "LiveDrive," a CRUD application where I'll manage 
+        One project I'm currently working on is <a href=https://github.com/JhonTheDev/livedrive/tree/main>"LiveDrive"</a>, a CRUD application where I'll manage 
         things on my local server. If you're interested in working with me or even just chatting, 
         I'll leave my social media links below.
       </p>
